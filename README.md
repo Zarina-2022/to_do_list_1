@@ -4,19 +4,19 @@
 
 <h3>I used <a href="https://cdnjs.com/libraries/font-awesome"><b>Font Awesome</b> </a> (for icons) </h3>
 
-<h3> I used javascript's:
+<h3> I used JavaScript's : </h3>
 
- add.Even.Listener('click', function(){}), 
+ <p> addEventListener('click', function(){}), </p>
  
- createElement(), 
+ <p> createElement()</p>
  
- classList.add(), 
+ <p> classList.add() </p>
  
- innerText=;, 
+ <p> innerText= ; </p>
  
- appendChild(), 
+ <p> appendChild()</p>
  
- removeChild(). </h3>
+<p> removeChild(). </p>
 
 <h3>Preview:</h3>
 
