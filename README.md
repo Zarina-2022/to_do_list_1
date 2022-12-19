@@ -1,8 +1,6 @@
-# To_Do_List
+# To_Do_List_1
 
 <h2>I made this to do list with the help of HTML, CSS and JavaScript.</h2>
-
-<h3>I used <a href="https://cdnjs.com/libraries/font-awesome"><b>Font Awesome</b> </a> (for icons) </h3>
 
 <h3> I used JavaScript's : </h3>
 
